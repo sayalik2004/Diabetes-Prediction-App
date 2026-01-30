@@ -2,7 +2,9 @@
 A Streamlit-based Machine Learning web application that predicts whether a person is diabetic or not using trained ML models. Built for educational and project purposes, demonstrating end-to-end ML deployment from model training to live prediction.
 
 ## Developed By : sayali Khairnar
-
+## Screenshot
+![diabeties prediction app]
+(screenshots/Screenshot 1.png)
 ## Functions
 - Takes input values such as glucose level, blood pressure, BMI, age, etc.
 - Preprocesses the input data before prediction
