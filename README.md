@@ -3,7 +3,7 @@ A Streamlit-based Machine Learning web application that predicts whether a perso
 
 ## Developed By : sayali Khairnar
 ## Screenshot
-![diabeties prediction app]
+![Diabeties prediction app]
 (screenshots/Screenshot 1.png)
 ## Functions
 - Takes input values such as glucose level, blood pressure, BMI, age, etc.
